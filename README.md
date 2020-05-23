@@ -3,6 +3,4 @@ It is an app that returns JSON object with movies information like Year of Relea
 It recommends movies according to the search.
 Searches can be done through movies name and genre.
 # Technologies used
-Java
-JSON
-Volley Library
+Java,JSON,Volley Library
